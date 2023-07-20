@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // open cmd
 // node comment.js
 // open browser
